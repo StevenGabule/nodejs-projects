@@ -3,3 +3,7 @@ drizzle-api/node_modules
 graphql-project/server/node_modules
 multi-tenant/server/node_modules
 multi-tenant/server/.env
+inventory-api/.env
+inventory-api/.env.local
+inventory-api/dist
+inventory-api/node_modules
